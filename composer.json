@@ -1,0 +1,20 @@
+{
+    "name": "akann/phpagi",
+    "description": "PHP AGI",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Akan Nkweini",
+            "email": "akan2000@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/akann/phpagi"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
