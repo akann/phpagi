@@ -2,7 +2,7 @@
     "name": "akann/phpagi",
     "description": "PHP AGI",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Akan Nkweini",
@@ -15,6 +15,6 @@
             "url": "https://github.com/akann/phpagi"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {}
 }
