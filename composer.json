@@ -16,5 +16,8 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Akann\\": "src/"}
+    },
     "require": {}
 }
