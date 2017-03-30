@@ -19,5 +19,11 @@
     "autoload": {
         "psr-4": {"Akann\\": "src/"}
     },
+    "autoload-dev": {
+        "psr-4": {
+        "Akann\\Test\\": "tests/"
+    },
+        "classmap": ["build/"]
+    },
     "require": {}
 }
